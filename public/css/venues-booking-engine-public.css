@@ -1,0 +1,59 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+.min-witty[type='number'] {
+  width: 50% !important;
+  margin: auto;
+}
+
+table.table.custom-table td {
+  padding: 10px !important;
+}
+
+.evu-card {
+  border: 1px solid #ccc;
+  /* border-top-right-radius: 4px;
+  border-top-left-radius: 4px; */
+  margin: 15px 0;
+}
+
+.evu-card:first-child {
+  margin-top: 0;
+}
+
+.evu-card .evu-card-title {
+  border-bottom: 1px solid #ccc;
+  font-weight: bold !important;
+  padding-bottom: 5px;
+  padding: 15px;
+  background-color: #aaa;
+}
+
+.evu-card .evu-card-title h4,
+.evu-card .evu-card-title h5,
+.evu-card .evu-card-title h6,
+.evu-card .evu-card-title h3 {
+  margin: 0;
+  padding: 0;
+  font-weight: bold;
+}
+
+.evu-card .evu-card-content {
+  padding: 15px;
+}
+
+.sessy-price,
+.cseess-urrency {
+  font-size: 1.3em;
+}
+
+.cart-btn-cheesz[type='submit'] {
+  line-height: 0 !important;
+}
+
+.no-heading-style {
+  margin: 0;
+  padding: 0;
+  margin-top: 30px;
+}

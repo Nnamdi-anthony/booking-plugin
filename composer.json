@@ -1,0 +1,20 @@
+{
+  "name": "anthony/venues-booking-engine",
+  "require-dev": {
+    "giacocorsiglia/wordpress-stubs": "^5.1"
+  },
+  "autoload": {
+    "classmap": [
+      "admin",
+      "public",
+      "includes"
+    ]
+  },
+  "authors": [
+    {
+      "name": "Emeodi Anthony",
+      "email": "emeodin@gmail.com"
+    }
+  ],
+  "require": {}
+}
